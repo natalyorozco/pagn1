@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Jost&family=Questrial&display=swap');
+
+body{
+    background-image:url("arm.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedorindex{
+     text-align: center;
+     }
+.conttitulo{
+    font-size: 600%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    
+}
+.contdescripcion{
+    font-size: 100%;
+    font-family:'Domine' ;
+    color: white;
+}
+.redessociales{
+ background-color: rgb(47, 75, 79);
+
+}
+.redessociales_img{
+    align-items: center;
+    
+}
+
+
